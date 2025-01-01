@@ -28,8 +28,7 @@ The **Weather App** is a simple web application that provides real-time weather 
    ```javascript
    const apiKey = 'your-api-key';
 ## Screenshots
-- **Img-1 :** Search weather
-![UI](https://github.com/Rubin737/Weather-App/blob/master/Screenshots/search.png?raw=true) 
+
 - **Img-1 :** Sample city 1
 ![City1](https://github.com/Rubin737/Weather-App/blob/master/Screenshots/sample1.png?raw=true)
 - **Img-1 :** Sample city 2
